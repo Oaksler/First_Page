@@ -323,3 +323,13 @@ body {
     text-align: center;
     text-decoration: none;
 }
+
+.copybg {
+    background-color: #1f2937;
+    text-align: center;
+}
+
+.copyright {
+    padding: 50px;
+    color: white;
+}
